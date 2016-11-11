@@ -1,0 +1,7 @@
+The file was read Successfully
+words found 914054
+words not found 64537
+comparisons found 3247710180
+comparisons not found 479381586
+average comparison words found 3553.0
+average comparison words not found 7428.0
